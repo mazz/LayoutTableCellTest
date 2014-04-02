@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>450C1D97-600E-416A-8EA3-1EE9A4FD1233</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LayoutTableCellTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6EE0C804-4279-4E21-8B76-EA0EC6027655</key>
+		<string>https://github.com/mazzaroth/LayoutTableCellTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LayoutTableCellTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6EE0C804-4279-4E21-8B76-EA0EC6027655</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mazzaroth/LayoutTableCellTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6EE0C804-4279-4E21-8B76-EA0EC6027655</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6EE0C804-4279-4E21-8B76-EA0EC6027655</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LayoutTableCellTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
